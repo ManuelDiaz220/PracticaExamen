@@ -5,6 +5,6 @@ console.log("Productos")
 })
 
 modelo2.create({
-    Nombre:"Sabritas",
-    Precio:"$40"
+    Nombre:"Six",
+    Precio:"$66"
 })

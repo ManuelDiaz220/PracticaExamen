@@ -5,6 +5,6 @@ console.log("ProductosF")
 })
 
 modelo4.create({
-    Nombre:"TV LG",
-    Precio:"$55,000"
+    Nombre:"Xbos Series s",
+    Precio:"$7,000"
 })

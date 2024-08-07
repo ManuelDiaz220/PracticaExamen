@@ -6,7 +6,7 @@ export const test5 = (() =>{
 
 
 modelo5.create({
-    nombre:"Xbox one S",
-    precioAntiguo:"$7,000",
-    precioNuevo:"$5,000"
+    nombre:"Cartonn cheve",
+    precioAntiguo:"$560",
+    precioNuevo:"$340"
 })

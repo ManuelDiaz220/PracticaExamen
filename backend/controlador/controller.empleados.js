@@ -7,8 +7,8 @@ console.log("empleados")
 
 
 modelo3.create({
-    nombre:"Daniel",
-    apepat: "Gallegos",
-    apemat:"Luna",
+    nombre:"Manuel",
+    apepat: "Diaz",
+    apemat:"Lopez",
 })
 

@@ -6,8 +6,8 @@ console.log("gerentes")
 
 
 modelo1.create({
-    nombre:"Angela",
-    apepat: "Luna",
-    apemat:"Fabian",
+    nombre:"Peter",
+    apepat: "B",
+    apemat:"Parker",
 })
 

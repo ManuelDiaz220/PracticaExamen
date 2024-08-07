@@ -11,15 +11,15 @@ dotenv.config();
 
 mongoose.connect(process.env.urlbd)
 .then(() => {
-    console.log("funciona")
+    console.log("jala")
 })
 .catch((error) =>{
-    console.log("no funciona", error)
+    console.log("no jala", error)
 })
 const app =express();
 app.use(cors())
 app.listen(4000, () => {
-    console.log("todo bien")
+    console.log("estoy cansado")
 })
 
 test1()
